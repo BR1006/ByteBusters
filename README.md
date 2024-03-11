@@ -3,5 +3,5 @@ INNODEV 2024
  Team name - ByteBusters 
  Team members
  a) Srijan (20224162)
- b) Anish  (20223039)
+ b) Anish Pandey (20223039)
  
